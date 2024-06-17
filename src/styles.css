@@ -12,10 +12,14 @@ html, body {
 main {
   margin: auto;
   width: 50%;
-  padding: 20px;
+  padding: 10px;
 }
 
 main > h1 {
   text-align: center;
   font-size: 3.5em;
+}
+
+div{
+  background-color: aliceblue;
 }
